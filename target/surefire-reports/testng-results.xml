@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-07T21:39:46 CDT" name="Suite" finished-at="2024-07-07T21:40:29 CDT" duration-ms="43719">
+    <groups>
+    </groups>
+    <test started-at="2024-07-07T21:39:46 CDT" name="Test" finished-at="2024-07-07T21:40:29 CDT" duration-ms="43719">
+      <class name="com.Salesforce.test.SfdcAutomation">
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.Salesforce.test.SfdcAutomation@56113384]" started-at="2024-07-07T21:39:46 CDT" name="setUpBeforeMethod" finished-at="2024-07-07T21:39:51 CDT" duration-ms="5121" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="Sdfcloginpositive()[pri:0, instance:com.Salesforce.test.SfdcAutomation@56113384]" started-at="2024-07-07T21:39:51 CDT" name="Sdfcloginpositive" finished-at="2024-07-07T21:39:57 CDT" duration-ms="6166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sdfcloginpositive -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.Salesforce.test.SfdcAutomation@56113384]" started-at="2024-07-07T21:39:57 CDT" name="tearDownAfterTestMethod" finished-at="2024-07-07T21:39:58 CDT" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.Salesforce.test.SfdcAutomation@56113384]" started-at="2024-07-07T21:39:58 CDT" name="setUpBeforeMethod" finished-at="2024-07-07T21:40:00 CDT" duration-ms="2760" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="SfdcInvalidUsernamePwd()[pri:0, instance:com.Salesforce.test.SfdcAutomation@56113384]" started-at="2024-07-07T21:40:00 CDT" name="SfdcInvalidUsernamePwd" finished-at="2024-07-07T21:40:03 CDT" duration-ms="2898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SfdcInvalidUsernamePwd -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.Salesforce.test.SfdcAutomation@56113384]" started-at="2024-07-07T21:40:03 CDT" name="tearDownAfterTestMethod" finished-at="2024-07-07T21:40:03 CDT" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.Salesforce.test.SfdcAutomation@56113384]" started-at="2024-07-07T21:40:03 CDT" name="setUpBeforeMethod" finished-at="2024-07-07T21:40:05 CDT" duration-ms="1601" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="Sfdcforgotpwd()[pri:0, instance:com.Salesforce.test.SfdcAutomation@56113384]" started-at="2024-07-07T21:40:05 CDT" name="Sfdcforgotpwd" finished-at="2024-07-07T21:40:15 CDT" duration-ms="10007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sfdcforgotpwd -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.Salesforce.test.SfdcAutomation@56113384]" started-at="2024-07-07T21:40:15 CDT" name="tearDownAfterTestMethod" finished-at="2024-07-07T21:40:15 CDT" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.Salesforce.test.SfdcAutomation@56113384]" started-at="2024-07-07T21:40:15 CDT" name="setUpBeforeMethod" finished-at="2024-07-07T21:40:18 CDT" duration-ms="2353" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="Sfdcinvalidlogin()[pri:0, instance:com.Salesforce.test.SfdcAutomation@56113384]" started-at="2024-07-07T21:40:18 CDT" name="Sfdcinvalidlogin" finished-at="2024-07-07T21:40:19 CDT" duration-ms="1451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sfdcinvalidlogin -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.Salesforce.test.SfdcAutomation@56113384]" started-at="2024-07-07T21:40:19 CDT" name="tearDownAfterTestMethod" finished-at="2024-07-07T21:40:19 CDT" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String)[pri:0, instance:com.Salesforce.test.SfdcAutomation@56113384]" started-at="2024-07-07T21:40:19 CDT" name="setUpBeforeMethod" finished-at="2024-07-07T21:40:22 CDT" duration-ms="2757" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="Sfdcrememberme()[pri:0, instance:com.Salesforce.test.SfdcAutomation@56113384]" started-at="2024-07-07T21:40:22 CDT" name="Sfdcrememberme" finished-at="2024-07-07T21:40:29 CDT" duration-ms="7181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sfdcrememberme -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.Salesforce.test.SfdcAutomation@56113384]" started-at="2024-07-07T21:40:29 CDT" name="tearDownAfterTestMethod" finished-at="2024-07-07T21:40:29 CDT" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.Salesforce.test.SfdcAutomation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

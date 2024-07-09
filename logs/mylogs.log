@@ -1,0 +1,1113 @@
+20240624 23:21:00 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:22:16 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:22:52 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:23:29 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:30:01 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:31:22 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:37:22 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:38:03 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:47:19 INFO  [main] test.TestLog TestLog.java13 - chrome browser has started
+20240624 23:47:19 INFO  [main] test.TestLog TestLog.java14 - application has opned in the broswer
+20240624 23:47:19 ERROR [main] test.TestLog TestLog.java20 - cannot divide by 0
+java.lang.ArithmeticException: / by zero
+	at com.Salesforce.test.TestLog.main(TestLog.java:17) [test-classes/:?]
+20240624 23:47:19 FATAL [main] test.TestLog TestLog.java23 - fatal information
+20240624 23:47:19 INFO  [main] test.TestLog TestLog.java24 - abrowser closed
+20240624 23:47:29 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:55:08 INFO  [main] test.TestLog TestLog.java13 - chrome browser has started
+20240624 23:55:08 INFO  [main] test.TestLog TestLog.java14 - application has opned in the broswer
+20240624 23:55:08 ERROR [main] test.TestLog TestLog.java20 - cannot divide by 0
+java.lang.ArithmeticException: / by zero
+	at com.Salesforce.test.TestLog.main(TestLog.java:17) [test-classes/:?]
+20240624 23:55:08 FATAL [main] test.TestLog TestLog.java23 - fatal information
+20240624 23:55:08 INFO  [main] test.TestLog TestLog.java24 - abrowser closed
+20240624 23:55:17 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240625 00:00:12 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240625 00:00:24 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java106 - Home Page ~ Salesforce - Developer Edition
+20240625 00:00:24 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240626 01:38:14 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 01:38:20 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 01:38:21 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 01:38:22 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 01:38:23 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 01:46:33 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 01:46:38 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 01:46:38 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 01:46:39 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 01:46:42 INFO  [main] base.BasePage BasePage.java50 - Usernamebutton is clicked
+20240626 01:46:42 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 01:46:42 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:00:26 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:00:29 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:00:30 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:00:31 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:00:32 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 02:12:56 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:13:01 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:13:01 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:13:02 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:13:02 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 02:21:57 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:22:01 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:22:02 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:22:02 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:22:02 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 02:23:18 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:23:24 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:23:24 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:23:26 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:23:26 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 02:23:26 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:23:29 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:23:30 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:23:30 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:23:31 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 02:35:14 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:35:18 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:35:19 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:35:19 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:35:20 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 02:36:21 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:36:26 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:36:26 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:36:27 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:36:27 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 02:37:25 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 02:37:30 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 02:37:31 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 02:37:34 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 02:37:34 INFO  [main] base.BasePage BasePage.java50 - Usernamebutton is clicked
+20240626 02:37:34 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 10:32:52 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 10:33:00 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 10:33:00 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 10:33:03 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 10:33:05 INFO  [main] base.BasePage BasePage.java50 - Usernamebutton is clicked
+20240626 10:33:06 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 10:36:13 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 10:36:19 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 10:36:20 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 10:36:27 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 10:36:29 INFO  [main] base.BasePage BasePage.java50 - Usernamebutton is clicked
+20240626 10:36:31 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 11:13:10 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 11:13:20 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 11:13:21 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 11:13:24 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 11:13:26 INFO  [main] test.SfdcAutomation SfdcAutomation.java37 - Title verified
+20240626 11:13:27 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 11:13:27 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 11:13:31 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 11:13:31 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 11:13:32 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 11:13:32 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 11:18:44 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 11:18:51 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 11:18:52 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 11:18:56 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 11:18:58 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 11:24:10 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 11:24:16 INFO  [main] base.BasePage BasePage.java39 - username data is entered in username field textbox
+20240626 11:24:17 INFO  [main] base.BasePage BasePage.java39 - username data is entered in password field textbox
+20240626 11:24:18 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 11:24:21 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 12:12:16 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 12:12:24 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 12:12:24 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 12:12:25 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 12:12:25 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 12:33:51 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 12:34:54 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 12:34:56 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 12:34:58 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 12:35:23 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 12:41:21 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 12:43:32 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 12:44:17 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 12:44:19 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 12:44:21 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 12:44:28 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 13:20:47 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 13:24:00 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 13:24:16 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 13:24:29 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 13:24:39 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 20:09:53 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 20:09:59 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 20:09:59 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 20:10:00 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 20:10:01 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 22:08:18 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 22:08:22 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 22:08:23 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 22:08:24 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 22:08:25 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 22:11:20 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 22:11:24 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 22:11:24 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 22:11:26 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 22:11:28 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 22:11:28 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 22:11:31 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 22:11:31 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 22:11:31 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 22:11:32 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 22:11:32 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 22:11:34 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 22:11:35 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 22:11:36 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 22:11:38 INFO  [main] base.BasePage BasePage.java50 - Usermenubutton is clicked
+20240626 22:11:38 INFO  [main] base.BasePage BasePage.java50 - Usermenulogoutoptionbutton is clicked
+20240626 22:11:39 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 22:18:34 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 22:18:38 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 22:18:38 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 22:18:40 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 22:18:42 INFO  [main] base.BasePage BasePage.java50 - Usermenubutton is clicked
+20240626 22:18:42 INFO  [main] base.BasePage BasePage.java50 - Usermenulogoutoptionbutton is clicked
+20240626 22:18:43 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240626 22:26:42 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240626 22:26:46 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240626 22:26:47 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240626 22:26:48 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240626 22:26:50 INFO  [main] base.BasePage BasePage.java50 - Usermenubutton is clicked
+20240626 22:26:50 INFO  [main] base.BasePage BasePage.java50 - Usermenulogoutoptionbutton is clicked
+20240626 22:26:53 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:15:21 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:15:27 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:15:27 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:15:27 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:15:28 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:19:33 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:19:37 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:19:37 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:19:37 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:19:37 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:21:10 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:23:37 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:23:40 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:23:41 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240627 19:23:41 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240627 19:23:41 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:26:43 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:26:47 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:26:47 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:26:47 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:26:47 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:27:33 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:27:37 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:27:37 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:27:38 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:27:40 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:34:22 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:34:26 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:34:26 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:34:26 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:34:28 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:41:27 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:41:31 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:41:31 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:41:31 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:41:34 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:43:20 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:43:24 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:43:25 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:43:25 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:43:27 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 19:46:10 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 19:46:16 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 19:46:16 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 19:46:16 INFO  [main] base.BasePage BasePage.java50 - continue buttonbutton is clicked
+20240627 19:46:19 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 20:10:33 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 20:10:37 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 20:10:37 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 20:10:37 INFO  [main] base.BasePage BasePage.java50 - continuebutton is clicked
+20240627 20:10:39 INFO  [main] base.BasePage BasePage.java83 - Check your emailwaiting for visibility for maximum of 30sec
+20240627 20:10:39 INFO  [main] base.BasePage BasePage.java70 - text is extracted from check your Email
+20240627 20:10:40 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 20:17:08 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 20:17:16 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 20:17:16 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 20:17:16 INFO  [main] base.BasePage BasePage.java50 - continuebutton is clicked
+20240627 20:17:24 INFO  [main] base.BasePage BasePage.java83 - Check your emailwaiting for visibility for maximum of 30sec
+20240627 20:17:24 INFO  [main] base.BasePage BasePage.java70 - text is extracted from check Email page
+20240627 20:17:25 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 20:18:56 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 20:19:03 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 20:19:03 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 20:19:12 INFO  [main] base.BasePage BasePage.java83 - Check your emailwaiting for visibility for maximum of 30sec
+20240627 20:19:12 INFO  [main] base.BasePage BasePage.java70 - text is extracted from check Email page
+20240627 20:19:13 INFO  [main] base.BasePage BasePage.java50 - return to login buttonbutton is clicked
+20240627 20:19:14 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 21:28:44 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 21:28:48 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 21:28:49 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 21:28:49 INFO  [main] base.BasePage BasePage.java50 - continuebutton is clicked
+20240627 21:28:57 INFO  [main] base.BasePage BasePage.java83 - Check your emailwaiting for visibility for maximum of 30sec
+20240627 21:28:57 INFO  [main] base.BasePage BasePage.java70 - text is extracted from check Email page
+20240627 21:28:57 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 21:29:49 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 21:29:53 INFO  [main] base.BasePage BasePage.java50 - Forgot Passwordbutton is clicked
+20240627 21:29:53 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 21:29:53 INFO  [main] base.BasePage BasePage.java50 - continuebutton is clicked
+20240627 21:30:01 INFO  [main] base.BasePage BasePage.java83 - Check your emailwaiting for visibility for maximum of 30sec
+20240627 21:30:01 INFO  [main] base.BasePage BasePage.java70 - text is extracted from check Email page
+20240627 21:30:02 INFO  [main] base.BasePage BasePage.java50 - return to login buttonbutton is clicked
+20240627 21:30:02 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240627 21:40:04 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240627 21:40:06 INFO  [main] base.BasePage BasePage.java39 - data is entered in username field textbox
+20240627 21:40:07 INFO  [main] base.BasePage BasePage.java39 - data is entered in password field textbox
+20240627 21:40:07 INFO  [main] base.BasePage BasePage.java50 - login buttonbutton is clicked
+20240627 21:40:08 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240628 00:25:26 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java57 - TestTest has started------------------
+20240628 00:25:26 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240628 00:25:31 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sdfcloginpositive started------
+20240628 00:25:32 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:25:32 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:25:35 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:25:37 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sdfcloginpositive ended with success------------
+20240628 00:25:38 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240628 00:25:38 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240628 00:25:41 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - SfdcInvalidUsernamePwd started------
+20240628 00:25:42 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:25:43 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:25:43 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:25:43 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - SfdcInvalidUsernamePwd ended with success------------
+20240628 00:25:43 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240628 00:25:43 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240628 00:25:46 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcforgotpwd started------
+20240628 00:25:46 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240628 00:25:46 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:25:47 INFO  [main] base.BasePage BasePage.java51 - continuebutton is clicked
+20240628 00:25:55 INFO  [main] base.BasePage BasePage.java84 - Check your emailwaiting for visibility for maximum of 30sec
+20240628 00:25:55 INFO  [main] base.BasePage BasePage.java71 - text is extracted from check Email page
+20240628 00:25:56 INFO  [main] base.BasePage BasePage.java51 - return to login buttonbutton is clicked
+20240628 00:25:56 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcforgotpwd ended with success------------
+20240628 00:25:57 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240628 00:25:57 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240628 00:26:04 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcinvalidlogin started------
+20240628 00:26:06 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:26:06 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:26:06 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:26:06 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcinvalidlogin ended with success------------
+20240628 00:26:10 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240628 00:26:10 INFO  [main] base.BaseSFTest BaseSFTest.java36 - ****************setUpBeforeMethod*******************
+20240628 00:26:14 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcrememberme started------
+20240628 00:26:14 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:26:15 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:26:17 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:26:21 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240628 00:26:21 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240628 00:26:23 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcrememberme ended with success------------
+20240628 00:26:26 INFO  [main] base.BaseSFTest BaseSFTest.java45 - ****************tearDownAfterTestMethod*******************
+20240628 00:28:46 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java57 - TestTest has started------------------
+20240628 00:28:46 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240628 00:28:50 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sdfcloginpositive started------
+20240628 00:28:51 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:28:52 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:28:53 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:28:55 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sdfcloginpositive ended with success------------
+20240628 00:28:55 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240628 00:28:55 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240628 00:28:57 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - SfdcInvalidUsernamePwd started------
+20240628 00:28:57 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:28:58 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:28:58 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:28:58 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - SfdcInvalidUsernamePwd ended with success------------
+20240628 00:28:59 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240628 00:28:59 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240628 00:29:03 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcforgotpwd started------
+20240628 00:29:03 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240628 00:29:04 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:29:04 INFO  [main] base.BasePage BasePage.java51 - continuebutton is clicked
+20240628 00:29:12 INFO  [main] base.BasePage BasePage.java84 - Check your emailwaiting for visibility for maximum of 30sec
+20240628 00:29:12 INFO  [main] base.BasePage BasePage.java71 - text is extracted from check Email page
+20240628 00:29:13 INFO  [main] base.BasePage BasePage.java51 - return to login buttonbutton is clicked
+20240628 00:29:13 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcforgotpwd ended with success------------
+20240628 00:29:14 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240628 00:29:14 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240628 00:29:16 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcinvalidlogin started------
+20240628 00:29:17 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:29:17 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:29:18 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:29:18 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcinvalidlogin ended with success------------
+20240628 00:29:18 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240628 00:29:18 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240628 00:29:20 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcrememberme started------
+20240628 00:29:21 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240628 00:29:21 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240628 00:29:23 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240628 00:29:25 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240628 00:29:27 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240628 00:29:29 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcrememberme ended with success------------
+20240628 00:29:29 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240706 20:13:48 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java44 - chrome browser instance chrome created.
+20240706 20:13:48 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java47 - window is maximized
+20240706 20:13:50 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java80 - https://login.salesforce.com/is entered
+20240706 20:13:52 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - browser instance closed
+20240706 20:28:33 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java44 - chrome browser instance chrome created.
+20240706 20:28:33 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java47 - window is maximized
+20240706 20:28:34 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java80 - https://login.salesforce.com/is entered
+20240706 20:28:37 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - browser instance closed
+20240706 20:40:59 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java44 - chrome browser instance chrome created.
+20240706 20:40:59 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java47 - window is maximized
+20240706 20:41:00 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java80 - https://login.salesforce.com/is entered
+20240706 20:41:03 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - browser instance closed
+20240706 20:41:58 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java44 - chrome browser instance chrome created.
+20240706 20:41:59 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java47 - window is maximized
+20240706 20:41:59 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java80 - https://login.salesforce.com/is entered
+20240706 20:43:26 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java44 - chrome browser instance chrome created.
+20240706 20:43:26 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java47 - window is maximized
+20240706 20:43:27 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java80 - https://login.salesforce.com/is entered
+20240706 20:48:00 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java44 - chrome browser instance chrome created.
+20240706 20:48:00 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java47 - window is maximized
+20240706 20:48:01 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java80 - https://login.salesforce.com/is entered
+20240706 20:48:04 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - browser instance closed
+20240706 20:49:45 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java44 - chrome browser instance chrome created.
+20240706 20:49:45 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java47 - window is maximized
+20240706 20:49:46 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java80 - https://login.salesforce.com/is entered
+20240706 20:49:49 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - browser instance closed
+20240706 21:10:05 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240706 21:10:05 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240706 21:10:06 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240706 21:10:12 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240706 21:10:12 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240706 21:10:13 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240706 21:10:18 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240706 21:11:56 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240706 21:11:56 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240706 21:11:57 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240706 21:12:01 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240706 21:12:02 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240706 21:12:02 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240706 21:12:03 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240706 21:12:07 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240706 21:21:12 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240706 21:21:12 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240706 21:21:13 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240706 21:21:17 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240706 21:21:18 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240706 21:21:18 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240706 21:21:19 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240706 21:21:22 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240706 22:55:57 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java57 - Default testTest has started------------------
+20240706 22:55:57 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240706 22:56:02 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcforgotpwd started------
+20240706 22:56:03 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240706 22:56:04 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240706 22:56:04 INFO  [main] base.BasePage BasePage.java51 - continuebutton is clicked
+20240706 22:56:12 INFO  [main] base.BasePage BasePage.java84 - Check your emailwaiting for visibility for maximum of 30sec
+20240706 22:56:12 INFO  [main] base.BasePage BasePage.java71 - text is extracted from check Email page
+20240706 22:56:13 INFO  [main] base.BasePage BasePage.java51 - return to login buttonbutton is clicked
+20240706 22:56:13 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcforgotpwd ended with success------------
+20240706 22:56:13 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240706 22:56:39 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java57 - Default testTest has started------------------
+20240706 22:56:39 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240706 22:56:41 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - SfdcInvalidUsernamePwd started------
+20240706 22:56:42 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240706 22:56:42 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240706 22:56:42 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240706 22:56:43 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - SfdcInvalidUsernamePwd ended with success------------
+20240706 22:56:43 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240706 23:09:45 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240706 23:09:45 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240706 23:09:47 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240706 23:09:53 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240706 23:09:55 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240706 23:09:55 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240706 23:09:55 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240706 23:09:59 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240706 23:10:02 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240706 23:10:02 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240706 23:10:02 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240706 23:10:05 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240706 23:39:14 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240706 23:39:14 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240706 23:39:15 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240706 23:39:15 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240706 23:39:16 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240706 23:39:16 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240706 23:39:16 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240706 23:39:17 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240706 23:39:17 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240706 23:39:17 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240706 23:39:18 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240706 23:39:18 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:23:34 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:23:34 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:23:34 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:23:37 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:23:38 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:23:38 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:23:39 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:23:42 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:23:43 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:23:43 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:23:44 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:23:46 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:33:01 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:33:01 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:33:02 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:33:05 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 00:33:05 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 00:33:06 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 00:33:07 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:33:11 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:33:11 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:33:12 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:33:15 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 00:33:15 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 00:33:15 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 00:33:16 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:33:19 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:33:19 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:33:21 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:33:23 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 00:33:24 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 00:33:25 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 00:33:28 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:36:00 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:36:00 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:36:01 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:36:04 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 00:36:04 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 00:36:09 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 00:36:09 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:36:11 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:36:11 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:36:12 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:36:14 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 00:36:14 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 00:36:15 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 00:36:15 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:36:16 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:36:16 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:36:17 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:36:19 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 00:36:19 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 00:36:22 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 00:36:25 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:40:44 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:40:44 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:40:45 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:40:47 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 00:40:48 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 00:40:48 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 00:40:49 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:40:50 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:40:50 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:40:51 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:40:53 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 00:40:54 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 00:40:54 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 00:40:54 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:40:55 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:40:55 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:40:56 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:40:58 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 00:40:59 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 00:41:02 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 00:41:03 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:45:19 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:45:19 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:45:20 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:45:22 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 00:45:23 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 00:45:26 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 00:45:31 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:45:34 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:45:34 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:45:35 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:45:37 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 00:45:38 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 00:45:38 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 00:45:38 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:45:40 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:45:40 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:45:41 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:45:43 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 00:45:43 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 00:45:46 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 00:45:47 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:58:08 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:58:08 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:58:08 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:58:11 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 00:58:12 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 00:58:15 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 00:58:16 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:58:18 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:58:18 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:58:19 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:58:21 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 00:58:22 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 00:58:22 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 00:58:23 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:58:24 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 00:58:24 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 00:58:25 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 00:58:27 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 00:58:28 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 00:58:31 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 00:58:32 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 00:59:58 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java57 - Default testTest has started------------------
+20240707 00:59:59 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240707 01:00:05 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcrememberme started------
+20240707 01:00:06 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:00:06 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:00:09 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:00:12 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 01:00:13 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 01:00:15 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcrememberme ended with success------------
+20240707 01:00:16 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240707 01:03:51 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 01:03:51 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 01:03:52 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 01:03:55 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:03:55 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:03:56 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:03:56 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 01:03:58 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 01:03:58 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 01:03:58 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 01:04:01 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:04:01 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:04:01 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:04:02 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 01:04:03 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 01:04:03 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 01:04:03 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 01:04:05 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:04:06 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:04:09 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:04:10 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 01:10:27 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 01:10:27 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 01:10:28 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 01:10:30 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:10:30 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:10:31 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:10:32 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 01:10:33 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 01:10:33 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 01:10:34 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 01:10:36 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:10:37 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:10:37 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:10:37 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 01:10:38 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 01:10:38 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 01:10:39 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 01:10:41 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:10:41 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:10:45 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:10:47 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 01:10:47 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 01:10:49 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 01:16:02 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 01:16:02 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 01:16:03 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 01:16:06 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:16:06 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:16:07 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:16:08 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 01:16:11 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 01:16:11 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 01:16:12 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 01:16:14 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:16:14 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:16:15 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:16:15 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 01:16:17 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 01:16:17 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 01:16:18 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 01:16:20 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:16:20 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:16:25 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:16:26 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 01:16:27 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 01:16:27 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 01:16:29 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java45 - chrome browser instance chrome created.
+20240707 01:16:29 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java48 - window is maximized
+20240707 01:16:29 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java81 - https://login.salesforce.com/is entered
+20240707 01:16:30 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java86 - browser instance closed
+20240707 01:28:55 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:28:55 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:28:55 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:28:58 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:28:58 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:28:59 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:29:01 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 01:29:03 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:29:03 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:29:06 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:29:08 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:29:08 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:29:08 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:29:09 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 01:29:12 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:29:12 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:29:20 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:29:23 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:29:23 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:29:27 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:29:29 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 01:29:30 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 01:29:31 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 01:29:32 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:29:32 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:29:33 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:29:34 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240707 01:29:35 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 01:38:01 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:38:01 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:38:02 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:38:04 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:38:04 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:38:06 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:38:07 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 01:38:10 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:38:10 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:38:11 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:38:14 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:38:14 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:38:15 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:38:15 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 01:38:17 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:38:17 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:38:18 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:38:20 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:38:21 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:38:24 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:38:26 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 01:38:27 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 01:38:27 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 01:38:29 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:38:29 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:38:29 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:38:30 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240707 01:38:31 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 01:44:44 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:44:44 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:44:45 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:44:47 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:44:47 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:44:48 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:44:49 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 01:44:50 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:44:50 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:44:51 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:44:53 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:44:54 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:44:54 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:44:54 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 01:44:55 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:44:55 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:44:56 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:44:58 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:44:58 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:45:02 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:45:05 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 01:45:06 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 01:45:06 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 01:45:08 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:45:08 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:45:08 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:45:09 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240707 01:45:10 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 01:49:25 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java57 - Default testTest has started------------------
+20240707 01:49:25 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240707 01:49:28 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcrememberme started------
+20240707 01:49:29 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:49:31 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:49:35 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:49:38 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 01:49:38 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 01:49:40 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcrememberme ended with success------------
+20240707 01:49:44 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240707 01:51:14 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java57 - Default testTest has started------------------
+20240707 01:51:14 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240707 01:51:18 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcrememberme started------
+20240707 01:51:20 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:51:21 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:51:22 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:51:37 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 01:51:38 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 01:51:40 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcrememberme ended with success------------
+20240707 01:51:46 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240707 01:57:03 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:57:03 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:57:04 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:57:06 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:57:06 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:57:08 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:57:09 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 01:57:10 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:57:10 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:57:10 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:57:13 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:57:13 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:57:14 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:57:16 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 01:57:19 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:57:19 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:57:21 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:57:24 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 01:57:24 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 01:57:27 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 01:57:30 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 01:57:30 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 01:57:31 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 01:57:33 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 01:57:33 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 01:57:33 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 01:57:34 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240707 01:57:34 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 02:01:08 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 02:01:08 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 02:01:10 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 02:01:12 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 02:01:12 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 02:01:14 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 02:01:14 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 02:01:16 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 02:01:16 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 02:01:17 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 02:01:19 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 02:01:19 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 02:01:20 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 02:01:20 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 02:01:21 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 02:01:21 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 02:01:22 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 02:01:24 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 02:01:24 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 02:01:27 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 02:01:30 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 02:01:31 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 02:01:32 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 02:01:33 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 02:01:33 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 02:01:34 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 02:01:34 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240707 02:01:35 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 02:07:42 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 02:07:42 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 02:07:44 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 02:07:46 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 02:07:47 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 02:07:48 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 02:07:48 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 02:07:50 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 02:07:50 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 02:07:51 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 02:07:53 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 02:07:54 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 02:07:54 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 02:07:54 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 02:07:56 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 02:07:56 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 02:07:57 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 02:07:59 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 02:07:59 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 02:08:03 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 02:08:05 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 02:08:06 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 02:08:06 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 02:08:08 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 02:08:08 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 02:08:08 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 02:08:09 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240707 02:08:09 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 02:11:39 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 02:11:39 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 02:11:40 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 02:11:42 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 02:11:42 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 02:11:43 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 02:11:44 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 02:11:45 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 02:11:46 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 02:11:46 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 02:11:48 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 02:11:49 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 02:11:49 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 02:11:49 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 02:11:50 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 02:11:51 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 02:11:51 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 02:11:53 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 02:11:53 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 02:11:57 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 02:12:00 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 02:12:00 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 02:12:01 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 02:12:03 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 02:12:03 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 02:12:03 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 02:12:04 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240707 02:12:04 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 18:59:46 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 18:59:46 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 18:59:47 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 18:59:49 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 18:59:49 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 18:59:53 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 18:59:54 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 18:59:55 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 18:59:55 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 18:59:56 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 18:59:59 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 18:59:59 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 18:59:59 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 18:59:59 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:00:01 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:00:01 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:00:01 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:00:04 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:00:04 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 19:00:08 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 19:00:15 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 19:00:15 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 19:00:16 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:00:22 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:00:22 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:00:23 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:00:23 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240707 19:00:23 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:03:54 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:03:54 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:03:54 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:03:57 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:03:57 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 19:03:58 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 19:03:59 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:04:02 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:04:02 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:04:02 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:04:05 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:04:05 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 19:04:06 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 19:04:06 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:04:07 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:04:07 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:04:08 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:04:11 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:04:11 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 19:04:15 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 19:04:17 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 19:04:18 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 19:04:18 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:04:19 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:04:19 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:04:20 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:04:20 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240707 19:04:20 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:07:25 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:07:25 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:07:26 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:07:28 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:07:28 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 19:07:29 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 19:07:30 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:07:31 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:07:31 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:07:31 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:07:33 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:07:34 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 19:07:34 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 19:07:34 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:07:35 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:07:35 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:07:36 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:07:38 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:07:38 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 19:07:41 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 19:07:44 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 19:07:44 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 19:07:45 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:07:46 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:07:46 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:07:46 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:07:47 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240707 19:07:47 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:07:47 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:22:05 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:22:05 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:22:06 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:22:08 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:22:08 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 19:22:08 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:22:09 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:22:09 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:22:10 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:22:12 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:22:12 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 19:22:12 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:22:13 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:22:13 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:22:14 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:22:16 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:22:16 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 19:22:20 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:22:21 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:22:21 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:22:22 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:22:22 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240707 19:22:22 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:22:23 INFO  [main] base.BasePage BasePage.java51 - continuebutton is clicked
+20240707 19:22:23 INFO  [main] base.BasePage BasePage.java84 - Check your emailwaiting for visibility for maximum of 30sec
+20240707 19:22:23 INFO  [main] base.BasePage BasePage.java71 - text is extracted from check Email page
+20240707 19:22:23 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:33:35 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:33:35 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:33:35 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:33:39 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:33:39 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 19:33:40 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 19:33:45 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:33:48 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:33:48 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:33:48 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:33:51 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:33:51 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 19:33:52 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 19:33:53 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:33:55 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:33:55 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:33:56 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:33:58 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:33:59 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 19:34:02 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 19:34:07 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 19:34:07 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 19:34:10 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 19:34:13 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 19:34:13 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 19:34:13 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 19:34:14 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240707 19:34:14 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 19:34:14 INFO  [main] base.BasePage BasePage.java51 - continuebutton is clicked
+20240707 19:34:14 INFO  [main] base.BasePage BasePage.java84 - Check your emailwaiting for visibility for maximum of 30sec
+20240707 19:34:15 INFO  [main] base.BasePage BasePage.java71 - text is extracted from check Email page
+20240707 19:34:15 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 20:00:41 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 20:00:41 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 20:00:44 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 20:00:46 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 20:00:47 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 20:00:47 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 20:00:48 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 20:00:50 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 20:00:50 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 20:00:51 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 20:00:54 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 20:00:54 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 20:00:55 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 20:00:55 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 20:00:57 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 20:00:57 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 20:00:57 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 20:01:00 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 20:01:00 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 20:01:05 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 20:01:07 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 20:01:08 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 20:01:08 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 20:01:11 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 20:01:11 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 20:01:13 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 20:01:13 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240707 20:01:14 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 20:01:14 INFO  [main] base.BasePage BasePage.java51 - continuebutton is clicked
+20240707 20:01:14 INFO  [main] base.BasePage BasePage.java84 - Check your emailwaiting for visibility for maximum of 30sec
+20240707 20:01:14 INFO  [main] base.BasePage BasePage.java71 - text is extracted from check Email page
+20240707 20:01:15 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 20:01:17 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 20:01:17 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 20:01:18 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 20:01:20 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 20:01:20 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 20:01:21 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 20:01:22 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 21:28:41 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 21:28:41 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 21:28:42 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 21:28:51 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 21:28:51 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 21:28:55 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 21:28:58 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 21:29:00 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 21:29:00 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 21:29:01 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 21:29:03 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 21:29:03 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 21:29:04 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 21:29:05 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 21:29:06 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 21:29:06 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 21:29:06 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 21:29:09 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 21:29:09 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 21:29:12 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 21:29:15 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 21:29:16 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 21:29:16 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 21:29:17 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 21:29:17 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 21:29:20 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 21:29:21 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240707 21:29:21 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 21:29:21 INFO  [main] base.BasePage BasePage.java51 - continuebutton is clicked
+20240707 21:29:21 INFO  [main] base.BasePage BasePage.java84 - Check your emailwaiting for visibility for maximum of 30sec
+20240707 21:29:21 INFO  [main] base.BasePage BasePage.java71 - text is extracted from check Email page
+20240707 21:29:22 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 21:29:23 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java49 - chrome browser instance chrome created.
+20240707 21:29:23 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java52 - window is maximized
+20240707 21:29:23 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java85 - https://login.salesforce.com/is entered
+20240707 21:29:25 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 21:29:26 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 21:29:26 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 21:29:26 INFO  [main] stepdefs.StepDefSalesforce StepDefSalesforce.java90 - browser instance closed
+20240707 21:39:46 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java57 - TestTest has started------------------
+20240707 21:39:46 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240707 21:39:51 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sdfcloginpositive started------
+20240707 21:39:52 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 21:39:52 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 21:39:55 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 21:39:57 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sdfcloginpositive ended with success------------
+20240707 21:39:58 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240707 21:39:58 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240707 21:40:00 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - SfdcInvalidUsernamePwd started------
+20240707 21:40:01 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 21:40:01 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 21:40:03 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 21:40:03 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - SfdcInvalidUsernamePwd ended with success------------
+20240707 21:40:03 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240707 21:40:03 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240707 21:40:05 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcforgotpwd started------
+20240707 21:40:05 INFO  [main] base.BasePage BasePage.java51 - Forgot Passwordbutton is clicked
+20240707 21:40:06 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 21:40:06 INFO  [main] base.BasePage BasePage.java51 - continuebutton is clicked
+20240707 21:40:14 INFO  [main] base.BasePage BasePage.java84 - Check your emailwaiting for visibility for maximum of 30sec
+20240707 21:40:14 INFO  [main] base.BasePage BasePage.java71 - text is extracted from check Email page
+20240707 21:40:15 INFO  [main] base.BasePage BasePage.java51 - return to login buttonbutton is clicked
+20240707 21:40:15 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcforgotpwd ended with success------------
+20240707 21:40:15 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240707 21:40:15 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240707 21:40:18 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcinvalidlogin started------
+20240707 21:40:18 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 21:40:18 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 21:40:19 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 21:40:19 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcinvalidlogin ended with success------------
+20240707 21:40:19 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
+20240707 21:40:19 INFO  [main] base.BaseSFTest BaseSFTest.java42 - ****************setUpBeforeMethod*******************
+20240707 21:40:22 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java28 - Sfdcrememberme started------
+20240707 21:40:22 INFO  [main] base.BasePage BasePage.java40 - data is entered in username field textbox
+20240707 21:40:23 INFO  [main] base.BasePage BasePage.java40 - data is entered in password field textbox
+20240707 21:40:24 INFO  [main] base.BasePage BasePage.java51 - login buttonbutton is clicked
+20240707 21:40:26 INFO  [main] base.BasePage BasePage.java51 - Usermenubutton is clicked
+20240707 21:40:27 INFO  [main] base.BasePage BasePage.java51 - Usermenulogoutoptionbutton is clicked
+20240707 21:40:29 INFO  [main] utilities.TestListenerUtility TestListenerUtility.java34 - Sfdcrememberme ended with success------------
+20240707 21:40:29 INFO  [main] base.BaseSFTest BaseSFTest.java51 - ****************tearDownAfterTestMethod*******************
